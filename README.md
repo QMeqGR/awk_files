@@ -1,5 +1,7 @@
 # awk_files
 
+awklib.awk -- useful awk utility functions
+
 prune.awk -- prune large data file to make it more managable for plotting
 
 grading/ -- scripts to take output from Canvas and convert to Pearson's 'gradebook' format,
